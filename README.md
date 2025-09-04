@@ -10,6 +10,7 @@ Full stack developer passionate about building high-performance, well-designed w
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ousmanly&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ousmanly&theme=dark&hide_border=false)<br/>
+![Commits this year](https://img.shields.io/badge/commits%20this%20year-123-blue)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ousmanly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
